@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Source 
+[https://github.com/olawanlejoel/movies-search-app](https://github.com/olawanlejoel/movies-search-app)
+
 ## Available Scripts
 
 In the project directory, you can run:
